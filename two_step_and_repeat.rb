@@ -36,7 +36,12 @@ end
   
   # Write a loop that fulfills all criteria from Part 3 of the README.md
 def break_dance
-  
+   puts "Right foot back"
+  sleep (0.5)
+  puts "Left foot back"
+  sleep (0.5)
+  puts "Right foot back"
+  sleep (0.5)
   # Write a solution that uses the same code as how_many_steps?, but breaks the
   # loop if steps is equal to 6
 end
